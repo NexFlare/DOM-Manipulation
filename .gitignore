@@ -1,0 +1,6 @@
+/.env
+/.env.development
+/dist
+/.cache
+package-lock.json
+/.DS_Store
